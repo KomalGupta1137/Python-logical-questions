@@ -2,3 +2,12 @@
 
 Note :-
 Don't use * multiply operator to multiply , you can use any other operators like +,-).
+
+first = 5
+second = 6
+i = 0
+sum = 0
+while i<first:
+    sum = sum +second
+    i +=1
+print(sum)
